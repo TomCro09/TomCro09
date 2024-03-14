@@ -6,6 +6,7 @@
 - 💭 Some more about me:
 -       💠I play Drums, Guitar and Piano
 -       💠I am taking Computer Science for GCSE (my favourite subject)
--       💠I would like a job in coding in the future - so thats why I upload most of my code here, no matter how 'good' or complete, as it gives people an idea of what I can do.
+-       💠I would like a job in coding in the future - so thats why I upload most of my code here,
+-         no matter how 'good' or complete, as it gives people an idea of what I can do.
 
 
